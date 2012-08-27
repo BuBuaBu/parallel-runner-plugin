@@ -25,7 +25,7 @@
 	<scm>
 		<url>http://parallelrunner.bubuabu.org/websvn</url>
 		<connection>scm:svn:http://parallelrunner.bubuabu.org/svn/trunk</connection>
-		<developerConnection>scm:svn:svn://parallelrunner.bubuabu.org/parallelrunner/trunk/</developerConnection>
+		<developerConnection>scm:svn:http://parallelrunner.bubuabu.org/svn/trunk</developerConnection>
 	</scm>
 	<developers>
 		<developer>
